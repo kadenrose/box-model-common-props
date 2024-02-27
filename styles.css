@@ -339,7 +339,8 @@ footer{
     text-align: center;
     font-size: 1.1rem;
     font-weight: bold;
-    
+    width: 50%;
+    box-shadow: var(--box-shadow-lg);
 }
 
 /* For the first link in this section: */
@@ -384,7 +385,7 @@ footer{
             - left: 60px
 */
 #section2 div > p:last-of-type{
-    
+    background-color: ;
 }
 
  /* For the div wrapped around that paragraph to show the space its taking up within its container */
